@@ -1,0 +1,38 @@
+{
+  "name": "tslint-config-gentleman",
+  "version": "0.1.0",
+  "description": "TSLint Configuration For Typescript",
+  "main": "tslint.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gentlemen-labs/tslint-config-gentleman.git"
+  },
+  "keywords": [
+    "typescript",
+    "configuration",
+    "gentleman"
+  ],
+  "author": "dalgos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gentlemen-labs/tslint-config-gentleman/issues"
+  },
+  "homepage": "https://github.com/gentlemen-labs/tslint-config-gentleman#readme",
+  "peerDependencies": {
+    "gitmoji-cli": "^1.9.2"
+  },
+  "devDependencies": {
+    "path": "^0.12.7",
+    "tslint": "^5.16.0",
+    "typescript": "^3.4.5"
+  },
+  "dependencies": {
+    "tslint-consistent-codestyle": "^1.15.1",
+    "tslint-eslint-rules": "^5.4.0",
+    "tslint-microsoft-contrib": "^6.1.1",
+    "tslint-react": "^4.0.0"
+  }
+}
