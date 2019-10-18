@@ -5,7 +5,7 @@ TSLint Configuration
 ## Install
 
 ```bash
-npm i tslint-config-gentleman
+npm i @gentlemen/tslint-config-gentleman
 ```
 
 ## Usage
