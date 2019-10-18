@@ -1,6 +1,6 @@
 {
   "name": "@gentlemen/tslint-config-gentleman",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "TSLint Configuration For Typescript",
   "main": "tslint.js",
   "scripts": {
