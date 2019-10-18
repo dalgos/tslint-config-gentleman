@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gentlemen-labs/tslint-config-gentleman.git"
+    "url": "git+https://github.com/dalgos/tslint-config-gentleman.git"
   },
   "keywords": [
     "typescript",
@@ -18,9 +18,9 @@
   "author": "dalgos",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gentlemen-labs/tslint-config-gentleman/issues"
+    "url": "https://github.com/dalgos/tslint-config-gentleman/issues"
   },
-  "homepage": "https://github.com/gentlemen-labs/tslint-config-gentleman#readme",
+  "homepage": "https://github.com/dalgos/tslint-config-gentleman#readme",
   "peerDependencies": {
     "gitmoji-cli": "^1.9.2"
   },
